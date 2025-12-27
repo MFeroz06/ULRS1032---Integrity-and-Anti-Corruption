@@ -32,6 +32,19 @@ Credit : 02
 - CLO3 - Relate the values of integrity and anti-corruption to current issues.
 ---
 
+## Chapter
+### Chapter 1 : Konsep dan Kepentingan Nilai dalam Kehidupan
+### Chapter 2 : Nilai Dalaman Dengan Pembentukan Jati Diri Dalam Menangani Rasuah
+### Chapter 3 : Integriti Teras Kesejahteraan
+### Chapter 4 : Rasuah Suatu Jenayah Serious
+### Chapter 5 : Agensi Pencegahan Rasuah dan Pemerkasaan Integriti
+### Chapter 6 : Rasuah berdasarkan Akta SPRM 2009
+### Chapter 7 : Liabiliti Korporat
+### Chapter 8 : Jenayah Kolar Putih
+### Chapter 9 : Punca, Simptom, dan Kesan Rasuah
+### Chapter 10 : Laporkan Rasuah, Langkah Pencegahan dan Inisiatif Kerajaan
+### Chapter 11 : Institusi Sosial Dalam Pembudayaan Integriti dan Anti-Rasuah
+
 
 ## 🎒 Continuous Assessment
 ---
