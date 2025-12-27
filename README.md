@@ -33,6 +33,7 @@ Credit : 02
 ---
 
 ## Chapter
+---
 ### Chapter 1 : Konsep dan Kepentingan Nilai dalam Kehidupan
 ### Chapter 2 : Nilai Dalaman Dengan Pembentukan Jati Diri Dalam Menangani Rasuah
 ### Chapter 3 : Integriti Teras Kesejahteraan
@@ -44,7 +45,7 @@ Credit : 02
 ### Chapter 9 : Punca, Simptom, dan Kesan Rasuah
 ### Chapter 10 : Laporkan Rasuah, Langkah Pencegahan dan Inisiatif Kerajaan
 ### Chapter 11 : Institusi Sosial Dalam Pembudayaan Integriti dan Anti-Rasuah
-
+---
 
 ## 🎒 Continuous Assessment
 ---
