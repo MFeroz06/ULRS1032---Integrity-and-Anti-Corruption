@@ -50,7 +50,7 @@
 
 ## 🖼️ Poster
 
-<img src="https://github.com/MFeroz06/ULRS1032---Integrity-and-Anti-Corruption/blob/main/Assignment/Poster/FINAL%20POSTER.png" width="350" >
+<img src="https://github.com/MFeroz06/ULRS1032---Integrity-and-Anti-Corruption/blob/main/Assignment/Poster/dc3d2d57-cbd6-4627-b628-0ea435df45e7.jpeg" width="350" >
 
 
 
