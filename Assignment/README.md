@@ -52,7 +52,15 @@
 
 <img src="https://github.com/MFeroz06/ULRS1032---Integrity-and-Anti-Corruption/blob/main/Assignment/Poster/dc3d2d57-cbd6-4627-b628-0ea435df45e7.jpeg" width="350" >
 
+## ✨ Reflection
+---
+> For this assignment, the total members of the group is 10 which is a first experience for assignment in UTM that have a lot of members. It improve my skills as communication skills since I need to be an actor.
 
+---
+
+## ✨ Suggestion for Improvement
+---
+> I hope for next batch, every team were asked to do the acting face-to-face instead of online, and I hope they make a programs that visit to the prison.
 
 
 
